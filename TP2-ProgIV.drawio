@@ -28,17 +28,11 @@
         <mxCell id="R88qnHYaduOSiVlKRMx4-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" value="repositories" vertex="1">
           <mxGeometry height="77.5" width="140" x="50" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="EVYr3F8uKrJjEDrGHvtB-40" edge="1" parent="1" source="R88qnHYaduOSiVlKRMx4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="R88qnHYaduOSiVlKRMx4-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="R88qnHYaduOSiVlKRMx4-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="NoteRepository.ts" vertex="1">
           <mxGeometry height="35" width="120" x="60" y="332.5" as="geometry" />
         </mxCell>
         <mxCell id="R88qnHYaduOSiVlKRMx4-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" value="routes" vertex="1">
           <mxGeometry height="60" width="232" x="-60" y="431.5" as="geometry" />
-        </mxCell>
-        <mxCell id="EVYr3F8uKrJjEDrGHvtB-33" edge="1" parent="1" source="R88qnHYaduOSiVlKRMx4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="R88qnHYaduOSiVlKRMx4-17">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R88qnHYaduOSiVlKRMx4-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="notes.ts" vertex="1">
           <mxGeometry height="35" width="214" x="-52" y="444" as="geometry" />
@@ -47,9 +41,6 @@
           <mxGeometry height="114" width="140" x="220" y="70" as="geometry" />
         </mxCell>
         <mxCell id="R88qnHYaduOSiVlKRMx4-47" edge="1" parent="1" source="R88qnHYaduOSiVlKRMx4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="R88qnHYaduOSiVlKRMx4-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EVYr3F8uKrJjEDrGHvtB-9" edge="1" parent="1" source="R88qnHYaduOSiVlKRMx4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="R88qnHYaduOSiVlKRMx4-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R88qnHYaduOSiVlKRMx4-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="noteService.ts" vertex="1">
@@ -132,6 +123,15 @@
         </mxCell>
         <mxCell id="R88qnHYaduOSiVlKRMx4-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Aquí se guardan las dependencias" vertex="1">
           <mxGeometry height="35" width="120" x="-270" y="66.25" as="geometry" />
+        </mxCell>
+        <mxCell id="EVYr3F8uKrJjEDrGHvtB-40" edge="1" parent="1" source="R88qnHYaduOSiVlKRMx4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="R88qnHYaduOSiVlKRMx4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EVYr3F8uKrJjEDrGHvtB-33" edge="1" parent="1" source="R88qnHYaduOSiVlKRMx4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="R88qnHYaduOSiVlKRMx4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EVYr3F8uKrJjEDrGHvtB-9" edge="1" parent="1" source="R88qnHYaduOSiVlKRMx4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="R88qnHYaduOSiVlKRMx4-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EVYr3F8uKrJjEDrGHvtB-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NoteService" vertex="1">
           <mxGeometry height="30" width="60" x="119" y="71.25" as="geometry" />
